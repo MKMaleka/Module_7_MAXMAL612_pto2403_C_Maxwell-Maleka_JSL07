@@ -80,6 +80,13 @@ button:hover {
   border-radius: 15px;
 }
 
+.certificatelogo {
+  display: block;
+  margin: 20px auto;
+  width: 60%;
+  height: auto;
+}
+
 #certificateContent {
   font-family: 'Raleway', serif;
   color: #333;
